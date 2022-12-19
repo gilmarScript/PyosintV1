@@ -21,6 +21,30 @@ A principal funcionalidade deste programa foi dividida em 3 partes <br>
  <details>
   <summary><h3>API: </h3></summary>
  <details>
- 
  <b> Enum </b> módulo uma chave Api de <b>Virus total</b> que você pode obter de ir <a href="https://www.virustotal.com/gui/sign-in"> Aqui </a><br>
+ 
+<img src = "https://github.com/d8rkmind/datacontainer/blob/main/data/pictures/mceclip0.png" width=1080p>
+<img src = "https://github.com/d8rkmind/datacontainer/blob/main/data/pictures/Untitled.png" width=1080p>
+
+<b>Paste</b> the key  inside api.json file:
+
+<img src ="https://raw.githubusercontent.com/d8rkmind/datacontainer/main/data/pictures/Screenshot%20at%202021-09-16%2016-07-42.png" width=1080p>
+
+<i> * se este passo não for feito, o total de vírus pode bloquear o seu pedido</i>
+  
   <details>
+  <summary><h3>Manual de instrução</h3></summary> 
+   
+   A seguir estão os subcomandos que funcionam este programa<br>
+
+Arguments |Shot<br>form |Long<br>form| Functionality
+----------|-- | ----|---------
+ Name| -n| --name| Para especificar o nome de domínio ou nome de usuário a ser usado
+ Module| -m| --module| Para especificar qual módulo usar
+ Output | -o| --output| Para especificar o nome do arquivo de saída
+ Thread | -t| --threads | Para especificar o número de threads a serem usados<br> <i> [ Não aplicável ao rastreamento da Web ] </i> 
+  Limit| -l | --limit| para especificar o valor máximo de URLs da Web a serem rastreados<br><i> [Aplicável apenas ao rastreamento da Web ] </i>
+ Verbose| -v| --verbose| Para habilitar o modo detalhado <br><i>[ Aplicável apenas à Enumeração ]</i>
+ Ports| -p| --ports| Para especificar as portas a serem verificadas<br><i> [ Aplicável apenas à Enumeração ]</ii>
+ Help | -h| --help| Para Mostrar as opções de ajuda
+ <br>
