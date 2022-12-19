@@ -17,3 +17,10 @@ A principal funcionalidade deste programa foi dividida em 3 partes <br>
 
  No módulo Scrap, os resultados são armazenados automaticamente na pasta <i> output/web </i> com o endereço IP do site como o nome do arquivo <br><br>
  Os serviços usados são<i> <b> Virus Total,PassiveDns,CrtSearch,ThreatCrowd</i></b><br>
+<details>
+
+ 
+ 
+ 
+ 
+ <b> Enum </b> módulo uma chave Api de <b>Virus total</b> que você pode obter de ir <a href="https://www.virustotal.com/gui/sign-in"> Aqui </a><br>
