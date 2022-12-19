@@ -48,7 +48,17 @@ Arguments |Shot<br>form |Long<br>form| Functionality
  Ports| -p| --ports| Para especificar as portas a serem verificadas<br><i> [ Aplicável apenas à Enumeração ]</ii>
  Help | -h| --help| Para Mostrar as opções de ajuda
  <br>
+   
+   
+# Instalação
 
+````
+git clone https://github.com/jovemsigilosodobembr/PyosintOffical.git
+cd 
+PyosintOffical
+
+pip3 install -r requirements.txt  
+````
    
   ###### Linux commands:
 
