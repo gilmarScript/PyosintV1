@@ -23,5 +23,4 @@ A principal funcionalidade deste programa foi dividida em 3 partes <br>
  <details>
  
  <b> Enum </b> módulo uma chave Api de <b>Virus total</b> que você pode obter de ir <a href="https://www.virustotal.com/gui/sign-in"> Aqui </a><br>
-  <summary>
-  
+  <details>
