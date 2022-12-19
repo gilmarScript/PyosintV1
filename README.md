@@ -48,3 +48,22 @@ Arguments |Shot<br>form |Long<br>form| Functionality
  Ports| -p| --ports| Para especificar as portas a serem verificadas<br><i> [ Aplicável apenas à Enumeração ]</ii>
  Help | -h| --help| Para Mostrar as opções de ajuda
  <br>
+
+   
+  ###### Linux commands:
+
+# Uso:
+
+```
+python3 pyosint.py [OPTIONS]
+```
+
+
+ ``` 
+ python3 pyosint.py -m find -n exampleuser               <-- Username-caçar
+ 
+ python3 pyosint.py -m scrap -n http://scanme.nmap.org   <-- Sucatando usando bot
+ 
+ python3 pyosint.py -m enum -n google.com                <-- Enumeração de subdomínio
+ ``` 
+   
