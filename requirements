@@ -1,0 +1,9 @@
+requests
+bs4
+urllib3
+colorama
+dnspython
+requests
+PyInquirer
+pwnedpasswords
+jinja2
