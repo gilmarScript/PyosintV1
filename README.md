@@ -77,3 +77,4 @@ python3 pyosint.py [OPTIONS]
  python3 pyosint.py -m enum -n google.com                <-- Enumeração de subdomínio
  ``` 
    
+Visite o meu canal: 
